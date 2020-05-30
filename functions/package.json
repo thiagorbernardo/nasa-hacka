@@ -1,0 +1,29 @@
+{
+  "name": "nasa-hacka",
+  "description": "POC's Google Assistant for Mentors with Claro",
+  "author": "Thiago Ramos Bernardo",
+  "private": true,
+  "engines": {
+    "node": "8"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "serve": "firebase serve --only functions",
+    "shell": "firebase experimental:functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "dependencies": {
+    "actions-on-google": "^2.0.0",
+    "firebase-admin": "^8.2.0",
+    "firebase-functions": "^3.1.0",
+    "i18n": "^0.9.1",
+    "mongodb": "^3.5.8",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}

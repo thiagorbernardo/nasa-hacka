@@ -1,0 +1,13 @@
+{
+    "data": {
+        "userName": "Thiago",
+        "location": {
+            "coordinates": {
+                "latitude": -24.0088726,
+                "longitude": -46.4125034
+            },
+            "formattedAddress": "Adecco brasil, Praia Grande, São Paulo ",
+            "city": "Praia Grande"
+        }
+    }
+}

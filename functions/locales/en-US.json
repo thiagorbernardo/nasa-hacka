@@ -1,0 +1,47 @@
+{
+    "MSG_WELCOME_CONTEXT": "Hi there, to get to know you better",
+    "MSG_WELCOME_NAME": "Hi again, {{name}}. What do you want to know?",
+    "MSG_PERMISSION_NO_PERM": "OK, no worries. What do you want to know?",
+    "MSG_PERMISSION_PERM": "Thanks, {{name}}. What do you want to know?",
+    "MSG_SUGGESTIONS": [
+        "My invoice",
+        "News today",
+        "Yes",
+        "No"
+    ],
+    "MSG_FATURA_POS_CONTEXT": "You need to let me see your name",
+    "MSG_FATURA_POS": "You have two numbers. Which one do you want to know about? The first number with the ending 20 9 9? Or the second number with final 40 8 8?",
+    "MSG_FATURA_POS_FOLLOW": "The value of May is {{bill}} pesos. Do you want me to send you your invoice?",
+    "MSG_FATURA_POS_FOLLOW_NOW": {
+        "before": "Ok, here's your invoice.",
+        "button_title": "Download Bill",
+        "after": "Can I help you with someting else?"
+    },
+    "MSG_FATURA_POS_FOLLOW_NOW_TEXT": "The value of May is {{bill}} pesos.",
+    "MSG_FATURA_POS_FOLLOW_NOW_TITLE": "Bill for {{deviceNumber}}",
+    "MSG_LATEST_NEWS": "What news do you want to know? Entertainment, Lifestyle, Smartphones or Technology.",
+    "MSG_LATEST_NEWS_SUGGESTIONS": [
+        "Entertainment",
+        "Lifestyle",
+        "Smartphones",
+        "Technology"
+    ],
+    "MSG_LATEST_NEWS_FOLLOW_SMARTPHONES": {
+        "no_audio": "Sorry, this device does not support audio playback.",
+        "before": "Here is the Claro's latest news about Smartphones.",
+        "media_name": "The new Galaxy S20",
+        "media_description": "Get to know the advantages of Samsung's new smartphone."
+    },
+    "MSG_LATEST_NEWS_FOLLOW_SMARTPHONES_SUGGESTIONS": [
+        "More about Galaxy S20",
+        "Other news",
+        "Other matters"
+    ],
+    "MSG_SMARTPHONE_PRICE" : "Galaxy S20 Ultra. 128GB 4G, costs 5,224,90 pesos. We have a Gift for you. Would you like to know more?",
+    "MSG_SMARTPHONE_PRICE_YES": {
+        "before": "Meet the Samsung Galaxy S20 Ultra 128GB 4G cell phone and take a free TV! If you are a Claro customer, change your financed Smartphone to 6,12,18 or 24 months on your bill. Then get it in Kit Amigo for your first recharge of 2000 pesos or more and we will give you a Welcome Package.",
+        "button_title": "Buy now"
+    },
+    "MSG_SMARTPHONE_PRICE_NO" : "It's all right. Can I help you with someting else?"
+
+}
