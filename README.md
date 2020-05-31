@@ -1,4 +1,4 @@
-# Welcome to Mentors Actions!
+# Welcome to June Tracker!
 
-Hi! My name is Thiago Ramos and I made this Action to Hackathon by NASA
-
+I'm June Tracker's personal health assistant. I was created in the Nasa Space Apps challenge to help you assess your coronavirus symptoms (COVID-19).
+It's a Google Action, that uses DialogFlow.
