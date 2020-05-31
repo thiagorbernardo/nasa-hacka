@@ -1,0 +1,119 @@
+{
+    "user": {
+        "raw": {
+            "locale": "en-US",
+            "lastSeen": "2020-05-31T02:22:50Z",
+            "userStorage": "{\"data\":{\"userName\":\"Thiago\",\"location\":{\"coordinates\":{\"latitude\":-25.436919,\"longitude\":-49.273851},\"formattedAddress\":\"Japuí, São Vicente, São Paulo \",\"city\":\"São Vicente\"},\"userData\":{\"Name\":\"Thiago\",\"Coords\":{\"latitude\":-25.436919,\"longitude\":-49.273851},\"City\":\"São Vicente\",\"CPF\":\"36323232839\",\"Birth Date\":\"2001-01-01T12:00:00-03:00\",\"Phone\":\"13996064866\",\"Height\":\"175\",\"Weight\":\"75\",\"CEP\":\"11850000\",\"isWoman\":\"No\",\"Pregnancy\":\"No\",\"Cormobity\":[{\"Diabetes\":\"Yes\"},{\"HeartDesease\":\"No\"},{\"ChronicKidneyDisease\":\"Yes\"},{\"PulmonaryDisease\":\"No\"},{\"Hypertension\":\"No\"}]}}}",
+            "userVerificationStatus": "VERIFIED"
+        },
+        "storage": {
+            "userName": "Thiago",
+            "location": {
+                "coordinates": {
+                    "latitude": -25.436919,
+                    "longitude": -49.273851
+                },
+                "formattedAddress": "Japuí, São Vicente, São Paulo ",
+                "city": "São Vicente"
+            },
+            "userData": {
+                "Name": "Thiago",
+                "Coords": {
+                    "latitude": -25.436919,
+                    "longitude": -49.273851
+                },
+                "City": "São Vicente",
+                "CPF": "36323232839",
+                "Birth Date": "2001-01-01T12:00:00-03:00",
+                "Phone": "13996064866",
+                "Height": "175",
+                "Weight": "75",
+                "CEP": "11850000",
+                "isWoman": "No",
+                "Pregnancy": "No",
+                "Cormobity": [
+                    {
+                        "Diabetes": "Yes"
+                    },
+                    {
+                        "HeartDesease": "No"
+                    },
+                    {
+                        "ChronicKidneyDisease": "Yes"
+                    },
+                    {
+                        "PulmonaryDisease": "No"
+                    },
+                    {
+                        "Hypertension": "No"
+                    }
+                ]
+            }
+        },
+        "locale": "en-US",
+        "verification": "VERIFIED",
+        "permissions": [],
+        "last": {
+            "seen": "2020-05-31T02:22:50.000Z"
+        },
+        "name": {},
+        "entitlements": [],
+        "access": {},
+        "profile": {}
+    },
+    "arguments": {
+        "parsed": {
+            "input": {
+                "REGISTER_UPDATE": {
+                    "@type": "type.googleapis.com/google.actions.v2.RegisterUpdateValue",
+                    "status": "OK"
+                },
+                "text": "11:25 p.m."
+            },
+            "list": [
+                {
+                    "@type": "type.googleapis.com/google.actions.v2.RegisterUpdateValue",
+                    "status": "OK"
+                },
+                "11:25 p.m."
+            ]
+        },
+        "status": {
+            "input": {},
+            "list": [
+                null,
+                null
+            ]
+        },
+        "raw": {
+            "list": [
+                {
+                    "name": "REGISTER_UPDATE",
+                    "extension": {
+                        "@type": "type.googleapis.com/google.actions.v2.RegisterUpdateValue",
+                        "status": "OK"
+                    }
+                },
+                {
+                    "name": "text",
+                    "rawText": "11:25 p.m.",
+                    "textValue": "11:25 p.m."
+                }
+            ],
+            "input": {
+                "REGISTER_UPDATE": {
+                    "name": "REGISTER_UPDATE",
+                    "extension": {
+                        "@type": "type.googleapis.com/google.actions.v2.RegisterUpdateValue",
+                        "status": "OK"
+                    }
+                },
+                "text": {
+                    "name": "text",
+                    "rawText": "11:25 p.m.",
+                    "textValue": "11:25 p."
+                }
+            }
+        }
+    }
+}
