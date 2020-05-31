@@ -7,6 +7,7 @@ const sendUserData = require("./intents/sendUserData");
 const sendUserSymptoms = require("./intents/sendUserSymptoms");
 const getNearbyPlace = require("./intents/getNearbyPlace");
 const prepareObj = require("./commom/prepareObj");
+const checkUserRisk = require("./commom/checkUserRisk");
 // Import the Dialogflow module and response creation dependencies
 // from the Actions on Google client library.
 const {
