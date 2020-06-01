@@ -31,7 +31,7 @@ const app = dialogflow({ debug: true });
 app.intent('Default Welcome Intent', async (conv) => {
     console.log(new Date());
 
-    conv.user.storage = {};
+    //conv.user.storage = {};
     const name = conv.user.storage.userName;
     const location = conv.user.storage.location;
     if (!name || !location) {
