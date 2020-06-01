@@ -16,9 +16,11 @@ On May 30th, Brazil had **498,440** confirmed cases and **28,834** deaths and us
 Why we are already using more than **70%** of the hospital capacity available for the treatment of Covid19 in Brazil and we know that the number of cases is highly likely to increase. At this stage of the way, we can no longer neglect the use of intelligence to optimize available hospital capacity, map risk areas and effectively guide people who may be infected by the disease.
 
 ## Other considerations
-This project consists of June Tracker (this one) and Covid Tracker (prediction algorithm), when together they become a strong tool in combating Covid 19 and the collapse of the health system.
+This project consists of June Tracker (this one) and [Covid Tracker](https://github.com/dlsouza42/CovidTracker) (prediction algorithm), when together they become a strong tool in combating Covid 19 and the collapse of the health system.
 
 ## Links and references
 [Pitch](https://youtu.be/H1wrIt8oMVo) presented to NASA SpaceApps.
 
 [Working Demo](https://youtu.be/H1wrIt8oMVo) also to NASA
+
+[Covid Tracker](https://github.com/dlsouza42/CovidTracker), prediction algorithm
